@@ -1,5 +1,7 @@
 # SN
 
 
-*I am using Github.*
+*I am using GitHub.*
+
+
 **This is easy**
