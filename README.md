@@ -9,4 +9,4 @@
 
 
 **This is easy**
-!Table!Create!
+[Create[Table]
